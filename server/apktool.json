@@ -1,0 +1,30 @@
+{
+  "apkFileName": "system.apk",
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {},
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png",
+    "assets/ip.txt"
+  ],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-220904",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "16",
+    "targetSdkVersion": "29"
+  }
+}
