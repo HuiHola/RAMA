@@ -62,7 +62,7 @@ python rama.py -b
 
 after that prompt ask to **http** server url don't use ngrok it may throw error use serveo or other
 
-### Start Listing
+### Start Listening
 ```bash 
 python rama.py -l 8080
 ```
