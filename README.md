@@ -16,7 +16,7 @@
 **Don't use this tool for any illegal activity If you do We will not be responsible for it If you agree with our terms and conditions go ahead and download and enjoy.**
 
 ## Features
-
+* FUD
 * Foreground Service
 * Icon Hide
 * Bypass playprotect
@@ -28,8 +28,8 @@
 ## Tested
 
 * Vivo (Android 8, Android 9, Android 10, Android 12, Android 13, Android 14)
-* Realmi (Android 11)
-* Onepluse (Android 12, Android 13)
+* Realme (Android 11)
+* Oneplus (Android 12, Android 13)
 * Xiaomi (Android 9, Android 11, Android 12)
 
 ## Required Packages
