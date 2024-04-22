@@ -1,12 +1,11 @@
 # RAMA : Remote Access Malware for Android
 
 <p align="center">
-    ![logo](imgs/logo.png)
+    <img src="imgs/logo.png">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Author-HuiHola-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Written%20In-PYTHON-Nodejs-darkcyan?style=for-the-badge">
 </p>
 
 ## About
