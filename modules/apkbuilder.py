@@ -34,6 +34,7 @@ class builder:
     def build(self,url,output,is_hide):
         print(f"{self.info} {self.color.GREEN}Decompile src/base_mod.apk{self.color.NONE}")
         self.shell("apktool d src/base_mod.apk")
+        self.shell("mv src/base_mod .")
         print(f"{self.info} {self.color.GREEN}Configure apk{self.color.NONE}")
         self.CommandWriter(url,is_hide)
         print(f"{self.info} {self.color.GREEN}Recompile apk{self.color.NONE}\033[93m")
