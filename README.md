@@ -37,7 +37,7 @@
 sudo apt install python3
 sudo apt install nodejs
 sudo apt install apktool
-sudo apt install openjdk-17-jdk
+sudo apt install default-jdk
 ```
 
 ## Installation
